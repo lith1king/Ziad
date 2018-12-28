@@ -1,6 +1,6 @@
-﻿token= NTI1NzU2OTI3MzcyODIwNDkw.Dv7zag.ya3M4L8mjqNT0ZvCuWvDKsBAV84
-owner= 520629080333352976
-prefix= E-
-game= Events.
+﻿token= NTI4MTE0ODk1Nzc0ODEwMTE1.DwdmvA.iZ7bQrS89G4f4YARRQedCghEngQ
+owner= 452802651814625280
+prefix= Z
+game= Only Zaid
 stayinchannel=true
 songinstatus=true 
