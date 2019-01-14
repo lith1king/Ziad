@@ -1,6 +1,6 @@
-﻿token= NTI4MTE0ODk1Nzc0ODEwMTE1.DwdmvA.iZ7bQrS89G4f4YARRQedCghEngQ
-owner= 452802651814625280
-prefix= Z
-game= Only Zaid
+﻿token= NTM0NDE0MzQ3MzY4Mzk4ODgw.Dx5P4w._ertzvpNkQnoSHAz5xmnlvWoUHY
+owner= 526864822348808193
+prefix= s
+game= shelp | by:ezookik
 stayinchannel=true
 songinstatus=true 
