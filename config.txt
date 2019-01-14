@@ -1,4 +1,4 @@
-﻿token= NTM0NDE0MzQ3MzY4Mzk4ODgw.Dx5P4w._ertzvpNkQnoSHAz5xmnlvWoUHY
+﻿token= NTM0NDE2MDA2Nzc3NjY3NTk0.Dx5RUQ.OkR-RceM-gqgDPIyYpA5eGLsHcw
 owner= 526864822348808193
 prefix= s
 game= shelp | by:ezookik
